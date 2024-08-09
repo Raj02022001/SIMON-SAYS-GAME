@@ -1,18 +1,14 @@
 About The SIMON SAYS GAME Project
-
 HTML (index.html):
-
 -Document Structure: The HTML file sets up the basic structure of the web page, including headings, a container for the game buttons, and links to the CSS and JavaScript files.
 -Semantic Elements: Uses <div>, <h1>, and <h2> tags to organize the game interface.
 
 CSS (style.css):
-
 -Styling and Layout: The CSS file defines the visual appearance of the game, including button sizes, colors, and the layout.
 -Responsive Design: Uses Flexbox (display: flex) to center and arrange the buttons within the container, making the layout adaptable to different screen sizes.
 -State-Based Styling: Provides styles for different button states (e.g., flash for game flash, userflash for user interaction) to enhance visual feedback.
 
 JavaScript (app.js):
-
 1. Game Initialization and Event Handling:
 Feature: The game starts when the user presses any key, ensuring that the game only starts once per session.
 
