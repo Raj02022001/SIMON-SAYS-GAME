@@ -1,4 +1,6 @@
 About The SIMON SAYS GAME Project
+
+
 HTML (index.html):
 -Document Structure: The HTML file sets up the basic structure of the web page, including headings, a container for the game buttons, and links to the CSS and JavaScript files.
 -Semantic Elements: Uses <div>, <h1>, and <h2> tags to organize the game interface.
